@@ -8,11 +8,11 @@ public class Main {
     }
 }
 class Fish {
-    public boolean isRestDay(int day) {
+    public boolean isRestDay(int day) {//判断是否为周末
         return day == 6 || day == 7;
     }
 
-    public int disCount(int x, int n) {
+    public int disCount(int x, int n) {//计算游泳距离
         int distance = 0;
         int day = x;
         for(int cnt = 0; cnt < n;  cnt++) {
