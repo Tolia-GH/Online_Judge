@@ -6,10 +6,9 @@ public class Main {
 
         if(tAng.getABC()) {
             System.out.printf("%.1f",tAng.getTriangleArea(tAng.a, tAng.b, tAng.c));
-
         }
         else {
-            System.out.println("Error!");
+            System.out.print("Error!");
         }
     }
 }
