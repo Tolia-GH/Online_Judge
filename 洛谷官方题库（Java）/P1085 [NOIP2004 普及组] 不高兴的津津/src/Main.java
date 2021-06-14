@@ -3,9 +3,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
          Child Jinjin = new Child();//实例化津津这个对象
-
+         Child xiaoming =new Child();
          Jinjin.getSchedule();//读入津津的日程表
          System.out.println(Jinjin.isHappy(8));//计算津津开不开心
+
     }
 }
 
@@ -20,6 +21,7 @@ class Child {
             }
         }
     }
+
     public int isHappy(int limitHours) {//计算小孩是否开心
         int[] unHappyLevel = new int[7];
         int maxUnhappy_Level = 0;

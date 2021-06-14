@@ -7,6 +7,7 @@ public class Main {
         System.out.println(fish.disCount(sc.nextInt(), sc.nextInt()));
     }
 }
+
 class Fish {
     public boolean isRestDay(int day) {//判断是否为周末
         return day == 6 || day == 7;

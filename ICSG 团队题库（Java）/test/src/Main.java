@@ -2,13 +2,18 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double a = sc.nextDouble();
-        double b = sc.nextDouble();
-        double c = sc.nextDouble();
-        double p = (a+b+c)/2;
-        if(a+b>c&&b+c>a&&a+c>b){
-            double S =Math.sqrt(p*(p-a)*(p-b)*(p-c));
-            System.out.printf("%.1f",S);
+        int a=sc.nextInt();
+        int b=sc.nextInt();
+        int c=0;
+        for(int i=1;i<=b;i++) {
+            if(a!=6 && a!=7) {
+                c=c+250;
+            }
+            if(a==8) {
+                a=1;
+            }
+            a++;
         }
+        System.out.println(c);
     }
 }
