@@ -14,7 +14,6 @@ void addplus() {
         c[lenc]=a[lenc]+b[lenc]+jinw;
         jinw=c[lenc]/10;
         c[lenc]%=10;
-        
     }
     if(c[lenc]==0) lenc--;
     for(int i=lenc;i>=1;i--) printf("%d",c[i]);
