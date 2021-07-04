@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {//注释
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int leftNum, rightNum;
         int[] digit = {0,0,0,0,0,0,0,0,0,0};
