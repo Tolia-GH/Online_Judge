@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.test/.test.iml" filepath="$PROJECT_DIR$/.test/.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ICSG 团队题库（Java）/ICSG 团队题库（Java）.iml" filepath="$PROJECT_DIR$/ICSG 团队题库（Java）/ICSG 团队题库（Java）.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Online_Judge.iml" filepath="$PROJECT_DIR$/.idea/Online_Judge.iml" />
       <module fileurl="file://$PROJECT_DIR$/洛谷官方题库（Java）/P1085 [NOIP2004 普及组] 不高兴的津津/P1085 [NOIP2004 普及组] 不高兴的津津.iml" filepath="$PROJECT_DIR$/洛谷官方题库（Java）/P1085 [NOIP2004 普及组] 不高兴的津津/P1085 [NOIP2004 普及组] 不高兴的津津.iml" />
@@ -15,7 +16,6 @@
       <module fileurl="file://$PROJECT_DIR$/洛谷官方题库（Java）/P5715 【深基3.例8】三位数排序/P5715 【深基3.例8】三位数排序.iml" filepath="$PROJECT_DIR$/洛谷官方题库（Java）/P5715 【深基3.例8】三位数排序/P5715 【深基3.例8】三位数排序.iml" />
       <module fileurl="file://$PROJECT_DIR$/洛谷官方题库（Java）/P5726 【深基4.习9】打分/P5726 【深基4.习9】打分.iml" filepath="$PROJECT_DIR$/洛谷官方题库（Java）/P5726 【深基4.习9】打分/P5726 【深基4.习9】打分.iml" />
       <module fileurl="file://$PROJECT_DIR$/ICSG 团队题库（Java）/T179677 辗转相除法求最大公因数.iml" filepath="$PROJECT_DIR$/ICSG 团队题库（Java）/T179677 辗转相除法求最大公因数.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ICSG 团队题库（Java）/test/test.iml" filepath="$PROJECT_DIR$/ICSG 团队题库（Java）/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/洛谷官方题库（Java）/洛谷官方题库（Java）.iml" filepath="$PROJECT_DIR$/洛谷官方题库（Java）/洛谷官方题库（Java）.iml" />
     </modules>
   </component>
